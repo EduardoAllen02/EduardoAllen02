@@ -12,16 +12,8 @@ I enjoy staying flexible across technologies and constantly challenging myself w
 
 Right now, I’m looking to collaborate on projects that push my skills further and blends creativity with engineering.
 
-🏋️‍♂️ Hobbies
-
--Gym
-
--Calisthenics
-
--Building videogames and 3D/AR experiences
-
 Fun Facts:
 
--Bleach is my all-time favorite anime.
-
--Also a blockchain enthusiast.
+* Bleach is my all-time favorite anime.
+* Also a blockchain enthusiast.
+* Hobbies: gym, calisthenics, building videogames and 3D/AR experiences
