@@ -1,4 +1,5 @@
 Hi there! 🦾
+
 My name is Eduardo, a software engineer based in Mexico.
 
 I design and build whatever I can imagine, always prioritizing effectiveness, scalability, and software quality in every solution I develop.
