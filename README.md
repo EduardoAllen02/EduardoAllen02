@@ -1,4 +1,4 @@
-Hi there! 🦾
+##Hi there! 🦾
 
 My name is Eduardo, a software engineer based in Mexico.
 
@@ -12,8 +12,8 @@ I enjoy staying flexible across technologies and constantly challenging myself w
 
 Right now, I’m looking to collaborate on projects that push my skills further and blends creativity with engineering.
 
-Fun Facts:
+**Fun Facts:**
 
 * Bleach is my all-time favorite anime.
 * Also a blockchain enthusiast.
-* Hobbies: gym, calisthenics, building videogames and 3D/AR experiences
+* **Hobbies:** gym, calisthenics, building videogames and 3D/AR experiences
