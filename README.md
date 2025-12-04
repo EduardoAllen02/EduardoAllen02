@@ -2,7 +2,7 @@
 
 My name is Eduardo, a software engineer based in Mexico.
 
-I design and build whatever I can imagine, always prioritizing effectiveness, scalability, and software quality in every solution I develop.
+I design and build scalable, visually rich applications — always prioritizing performance, maintainability, and user experience.
 
 My principal tech stack includes React, Next.js, Tailwind, and Three.js. My favorite tools are Blender, Notion, and the classic combo of paper and pencil for planning and creative exploration.
 
