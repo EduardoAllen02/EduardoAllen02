@@ -12,7 +12,7 @@ I enjoy staying flexible across technologies and constantly challenging myself w
 
 Right now, I’m looking to collaborate on projects that push my skills further and blends creativity with engineering.
 
-**Fun Facts:**
+**Areas of Interest**
 
 * Also a blockchain enthusiast.
 * Bleach is my all-time favorite anime.
